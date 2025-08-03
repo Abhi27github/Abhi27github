@@ -31,16 +31,18 @@ I am a final-year B.Tech student in Information Technology from Amity University
 ---
 
 ## 🔧 **Technical Skills**
-- **Programming Languages**: Python, C++, SQL  
-- **Web Development**: HTML5, CSS3, JavaScript (ES6), REST API  
-- **Frameworks**: Django REST, React  
-- **Databases**: MySQL, PostgreSQL  
-- **Key Technologies**: GitLab, Django REST, React, PostgreSQL, Redis, WebSockets, Psycopg2, JWT, Google Authentication, Base64 File Upload  
+- **Data Analysis:** Python (Pandas, NumPy, Web Scraping ), SQL (Joins, CTEs, Window Functions ), MS Excel(Pivot Tables)
+- **Visualization:** Power BI (DAX, Custom Visuals), Tableau, Matplotlib/Seaborn, Interactive Dashboards, Report Making
+- **Database:** PostgreSQL (Query Optimization), MySQL (Stored Procedures), ETL Pipelines, Dimensional Modeling
+- **Cloud:** AWS (S3, RDS, EC2, Data Storage & Processing )
+- **Tools:** Git (Version Control), JIRA (Agile Management), Postman (API Testing), REST APIs
+- **Statistics:** A/B Testing (Statistical Significance), Descriptive/Predictive Analytics, KPI Framework Development
+- **Methods:** Agile/Scrum (Sprint Planning), SDLC (Requirements Analysis), Data Storytelling (Stakeholder Presentations)
 
 ---
 
 ## 💼 **Experience**
-### **Backend Developer Intern** - DataFlow  
+### **Backend Developer** - DataFlow  
 📍 Noida (July 2024 – Dec 2024)  
 - Designed and developed an in-house Audit Portal using **Django**, **React**, **PostgreSQL**, and **Redis**.
 - Key features delivered:
@@ -61,6 +63,10 @@ I am a final-year B.Tech student in Information Technology from Amity University
 ---
 
 ## 🛠 **Projects**
+-**Audit Portal | Django, React, PostgreSQL, Websocket**
+  - Streamlined audit processes with a custom Django and React based Audit Portal and provided real-time insights using Websocket.
+  - Key functionalities include a interactive dashboard for analytics, form management with nested forms and file uploads, an admin panel with audit trails, real-time notifications via WebSocket, and automated audit sampling with external database access.
+
 - **[Portfolio Animated Website](#)**  
   - Created a responsive, animated portfolio using **HTML**, **CSS**, and **JavaScript**.
   - Features include an about section, project showcase, contact form, and resume download.
